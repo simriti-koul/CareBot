@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "236175644524",
+    "project_id": "carebot-14f44",
+    "storage_bucket": "carebot-14f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236175644524:android:40da55e14266f511f20549",
+        "android_client_info": {
+          "package_name": "com.example.unaddict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236175644524-5d300huirmpp8achnrg73kbk6q38tjnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqPmRTnZGGJgezjZhJKoDprpQHsQvO2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236175644524-5d300huirmpp8achnrg73kbk6q38tjnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
